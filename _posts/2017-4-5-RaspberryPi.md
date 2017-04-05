@@ -20,4 +20,21 @@ Il faut savoir une chose avec la Raspberry : ses pin GPIO sont uniquement digita
 Pour lire un potentiomètre (valeur analogique), on est obligé de rajouter un composant pour transformer quelques GPIO en analogique. Ce composant est le MCP 3008, qui permet en utilisant 4 GPIO (dont celles de l’I2C), d’obtenir 8 pins analogiques.
 
 
+
+
+
+# Ubuntu 14.04 LTS arm
+## Sur l’ordinateur
+###  Télécharger l’image disque
+On peut la télécharger sur le site officiel :
+
+[https://wiki.ubuntu.com/ARM/RaspberryPi](https://wiki.ubuntu.com/ARM/RaspberryPi)
+
+Le compte par défaut est "ubuntu" et son mot de passe "ubuntu".
+
+### Formater sa carte microSD
+* Brancher la carte à l’ordinateur
+- Démonter la carte SD (si elle est montée automatiquement (cf ubuntu,. . . )) : on peut le
+faire avec l’interface graphique (clic droit/démonter) ou en ligne de commandes :
+
 # Sources :
