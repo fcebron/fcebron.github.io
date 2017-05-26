@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Logiciels LUbuntu
+title: Logiciels Kubuntu
 ---
 
 ###### Aptitude :
