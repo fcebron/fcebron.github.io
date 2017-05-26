@@ -42,6 +42,7 @@ vivaldi
 discord
 slack
 nomachine
+franz
 
 
 #numlockx  #### voir tuto forum ubuntu
