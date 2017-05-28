@@ -13,7 +13,7 @@ sudo aptitude install mc libreoffice hunspell-fr octave scilab mat cherrytree sy
 sudo aptitude install picocom bsdtar dfc htop terminator byobu tree kde-config-systemd ranger gufw gparted
 
 ###### Redshift :
-sudo aptitude install redshift-gtk redshift plasma-widget-redshift 
+sudo aptitude install redshift-gtk redshift plasma-applet-redshift-control
 
 ###### Developpement :
 sudo aptitude install vim build-essential meld valgrind arduino code::blocks arduino python python3 pep8 python3-pep8 python-autopep8 python-flake8 python3-flake8 git
