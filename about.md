@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Ceci est mon blog perso sur lequel je références infos qui m'ont étées utiles et difficiles à trouver dans certains cas.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Personal blog used to list helpful informations that I was happy to find on the net (sometimes it took me a very long time to find them)! This blog is currently in French, there may be an English version in the future!
